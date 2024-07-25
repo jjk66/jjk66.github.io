@@ -2,6 +2,7 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: University of Nebraska, Lincoln -  BA in English
+  - title: University of Nebraska, Lincoln - BA in English
     grade: "**GPA**: `3.9/4.3`"
+    honors: "High Distinction"
     date: August 2020 - May 2024
